@@ -561,4 +561,8 @@ Blockly.Blocks.defaultToolbox = '<xml id="toolbox-categories" style="display: no
       '</value>' +
     '</block>' +
   '</category>' +
+  '<category name="custom" id="custom" colour="#4C97FF" secondaryColour="#3373CC">' +
+    '<block type="custom_block" id="custom_block">' +
+    '</block>' +
+  '</category>' + 
   '</xml>';
