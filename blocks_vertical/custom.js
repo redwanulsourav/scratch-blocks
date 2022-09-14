@@ -1,6 +1,6 @@
 'use strict';
 
-goog.provide('Blockly.Blocks.motion');
+goog.provide('Blockly.Blocks.custom');
 
 goog.require('Blockly.Blocks');
 goog.require('Blockly.Colours');
