@@ -561,8 +561,14 @@ Blockly.Blocks.defaultToolbox = '<xml id="toolbox-categories" style="display: no
       '</value>' +
     '</block>' +
   '</category>' +
-  '<category name="custom" id="custom" colour="#4C97FF" secondaryColour="#3373CC">' +
-    '<block type="custom_block" id="custom_block">' +
+  '<category name="Trashcan" id="Trashcan" colour="#4C97FF" secondaryColour="#3373CC">' +
+    '<block type="trashcan_move_forward" id="trashcan_move_forward">' +
+    '</block>' +
+    '<block type="trashcan_move_backward" id="trashcan_move_backward">' +
+    '</block>' +
+    '<block type="trashcan_rotate_ccw" id="trashcan_rotate_ccw">' +
+    '</block>' +
+    '<block type="trashcan_rotate_cw" id="trashcan_rotate_cw">' +
     '</block>' +
   '</category>' + 
   '</xml>';
